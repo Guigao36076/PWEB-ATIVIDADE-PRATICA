@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+}
+.opcao{
+    margin: 0;
+    width: 250px;
+    height: 3px;
+    display: inline-block; 
+    text-decoration: overline;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.op{
+    margin: 0x;
+    display: inline-block;
+    background-color: gray;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+}
+.mecanica:hover{
+    background-color: aqua;
+}
+
+.cor{
+    color: white;
+}
+.cor:hover{
+    color: gray;
+}
+.fat{
+    list-style: none;
+    background-color: rgb(204,204,204);
+    width: 110px;
+    display: flex;
+    padding: 10px;
+}
+.cor1{
+    color: white;
+}
+.fat:hover{
+    background-color: rgb(224,27,106);
+}
+.cor1:hover{
+    color: white;
+}
+#link{
+    background-color: blue;
+    width: 180px;
+    height: 40px;
+    color: white;
+}
+#cor{
+    color: white;
+}
+#logo{
+    margin: 25px 25px 25px 25px;
+    display:block;
+}
+.img1{
+    width: 100px;
+}
+
