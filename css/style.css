@@ -3,7 +3,6 @@ h1{
 }
 .opcao{
     margin: 0;
-    width: 250px;
     height: 3px;
     display: inline-block; 
     text-decoration: overline;
@@ -65,4 +64,3 @@ a:hover{
 .img1{
     width: 100px;
 }
-
